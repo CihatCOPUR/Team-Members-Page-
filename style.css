@@ -1,0 +1,38 @@
+.main {
+  /* border: 2px solid red; */
+  background: url(./banner.jpeg) no-repeat center center;
+  background-size: cover;
+  height: 100vh;
+  color: purple;
+  padding-top: 16%;
+  padding-bottom: 16%;
+}
+
+.logo i {
+  position: relative;
+  top: 8px;
+}
+
+.social i {
+  font-size: 1.5rem;
+  position: relative;
+  top: -10px;
+}
+
+.reference img {
+  width: 120px;
+  /* max-height: 50px; */
+}
+
+.contact {
+  /* border: 2px solid red; */
+  background: url(./map.jpeg) no-repeat center center;
+  background-size: cover;
+}
+
+.about-img {
+  object-fit: cover;
+}
+.cona {
+  color: purple;
+}
